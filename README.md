@@ -7,6 +7,6 @@ The workings of this CUDA code is explained in the paper:
 
 Johan van de Koppel, Rohit Gupta, and Cornelis Vuik. 2011. "Scaling-up spatially-explicit ecological models using graphics processors." Ecological Modelling 222.17: 3011-3019.
 
-To run this model, read the explanation on the main page https://johanvandekoppel.github.io.
+To run this model, read the explanation on the main page https://johanvandekoppel.github.io. You need to have a CUDA-compatible video card, and on a Linux or Mac system, follow the explanation provided under "For Mac or Linux users". If you work under windows, you are unfortunately on your own the conquer "Visual Studio".
 
 Johan van de Koppel Februari 2015
